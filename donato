@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+
+<title>Centro Educativo IA – Donato Conturla</title>
+
+<meta name="description" content="Plataforma educativa avanzada de Inteligencia Artificial, Big Data y Biotecnología creada por Donato Conturla.">
+
+<!-- 🔥 Open Graph: esto hace que WhatsApp, Facebook, Telegram y navegadores muestren preview -->
+<meta property="og:title" content="Centro Educativo IA – Donato Conturla">
+<meta property="og:description" content="Aprende Inteligencia Artificial, Big Data, Biotecnología y Python con Donato Conturla. Plataforma educativa avanzada.">
+<meta property="og:image" content="https://TU-DOMINIO/preview.png">
+<meta property="og:url" content="https://TU-USUARIO.github.io/NOMBRE-DEL-PROYECTO">
+<meta property="og:type" content="website">
+
+<style>
+body{
+background:#0d1117;
+color:#00ffc6;
+font-family:Arial;
+text-align:center;
+padding-top:120px;
+}
+h1{font-size:32px;}
+p{font-size:18px;}
+</style>
+
+</head>
+
+<body>
+<h1>Centro Educativo IA – Donato Conturla</h1>
+<h2>Aprende Inteligencia Artificial con Donato Conturla</h2>
+
+<p>Propietario del Proyecto: <b>Donato Conturla</b></p>
+<p>Creador IA: <b>Donato Conturla</b></p>
+<p>Plataforma educativa oficial.</p>
+
+</body>
+</html>
