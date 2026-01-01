@@ -1,40 +1,188 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="utf-8">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Centro Educativo IA – Donato Conturla</title>
+<title>Centro Educativo de Inteligencia Artificial – Aprende IA con Donato Conturla</title>
 
-<meta name="description" content="Plataforma educativa avanzada de Inteligencia Artificial, Big Data y Biotecnología creada por Donato Conturla.">
+<meta name="description" content="Centro Educativo de Inteligencia Artificial – Aprende IA, Big Data y Biotecnología con Donato Conturla. Plataforma educativa profesional y futurista.">
+<meta name="author" content="Donato Conturla">
+<meta name="keywords" content="Inteligencia Artificial, Big Data, Biotecnología, Educación, Tecnología, Aprendizaje IA, Donato Conturla">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<!-- 🔥 Open Graph: esto hace que WhatsApp, Facebook, Telegram y navegadores muestren preview -->
-<meta property="og:title" content="Centro Educativo IA – Donato Conturla">
-<meta property="og:description" content="Aprende Inteligencia Artificial, Big Data, Biotecnología y Python con Donato Conturla. Plataforma educativa avanzada.">
-<meta property="og:image" content="https://TU-DOMINIO/preview.png">
-<meta property="og:url" content="https://TU-USUARIO.github.io/NOMBRE-DEL-PROYECTO">
-<meta property="og:type" content="website">
+<link rel="canonical" href="https://tu-dominio-oficial.com">
 
 <style>
-body{
-background:#0d1117;
-color:#00ffc6;
-font-family:Arial;
-text-align:center;
-padding-top:120px;
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
 }
-h1{font-size:32px;}
-p{font-size:18px;}
+
+body{
+    background:#020407;
+    color:white;
+}
+
+/* ---------------- HEADER ---------------- */
+header{
+    padding:60px 20px;
+    text-align:center;
+    background:linear-gradient(180deg, #030a12, #020407);
+    border-bottom:2px solid #00ffc6;
+}
+
+header h1{
+    color:#00ffc6;
+    font-size:32px;
+    letter-spacing:1px;
+}
+
+header h2{
+    color:#7af7ff;
+    margin-top:12px;
+    font-size:20px;
+}
+
+/* ---------------- CONTAINER ---------------- */
+.container{
+    max-width:1100px;
+    margin:auto;
+    padding:30px;
+}
+
+/* SECTION BOXES */
+.section{
+    border:2px solid #0af7d9;
+    border-radius:18px;
+    padding:25px;
+    margin-top:25px;
+    background:linear-gradient(180deg, #040b12, #020407);
+    box-shadow:0px 0px 25px #00ffc680;
+}
+
+.section h3{
+    color:#00ffc6;
+    font-size:22px;
+    margin-bottom:10px;
+}
+
+.section p{
+    color:#b8fcff;
+    font-size:16px;
+    line-height:1.6;
+}
+
+/* SHARE BUTTON */
+.share-box{
+    text-align:center;
+    margin-top:35px;
+}
+
+button{
+    background:#00ffc6;
+    border:none;
+    padding:14px 28px;
+    color:#000;
+    font-size:18px;
+    font-weight:bold;
+    border-radius:14px;
+    cursor:pointer;
+    transition:0.3s;
+}
+
+button:hover{
+    background:#0ac2a1;
+}
+
+/* FOOTER */
+footer{
+    margin-top:50px;
+    text-align:center;
+    padding:20px;
+    color:#6ffff8;
+    border-top:2px solid #00ffc6;
+}
+
+/* RESPONSIVE */
+@media(max-width:900px){
+    header h1{font-size:26px;}
+    header h2{font-size:18px;}
+}
+
 </style>
 
 </head>
 
 <body>
-<h1>Centro Educativo IA – Donato Conturla</h1>
-<h2>Aprende Inteligencia Artificial con Donato Conturla</h2>
 
-<p>Propietario del Proyecto: <b>Donato Conturla</b></p>
-<p>Creador IA: <b>Donato Conturla</b></p>
-<p>Plataforma educativa oficial.</p>
+<header>
+<h1>CENTRO EDUCATIVO DE INTELIGENCIA ARTIFICIAL</h1>
+<h2>APRENDE IA CON DONATO CONTURLA</h2>
+</header>
+
+<div class="container">
+
+<div class="section">
+<h3>📡 Inteligencia Artificial</h3>
+<p>
+Explora el mundo de la IA: aprendizaje automático, deep learning, visión artificial, NLP,
+algoritmos inteligentes y sistemas autónomos que transforman el mundo.
+</p>
+</div>
+
+<div class="section">
+<h3>📊 Big Data</h3>
+<p>
+Analiza grandes volúmenes de datos, descubre patrones, predicciones y 
+decision making inteligente con tecnologías modernas.
+</p>
+</div>
+
+<div class="section">
+<h3>🧬 Biotecnología</h3>
+<p>
+Innovación científica aplicada a la medicina, agricultura y medio ambiente,
+integrando IA + ciencia para el futuro del planeta.
+</p>
+</div>
+
+<div class="section">
+<h3>🎓 Plataforma Educativa Tecnológica</h3>
+<p>
+Formación moderna, académica, profesional y futurista.
+Aprendizaje accesible para estudiantes, profesionales y curiosos de la tecnología.
+</p>
+</div>
+
+<div class="section">
+<h3>👨‍🎓 Marca Personal</h3>
+<p>
+Proyecto oficial de: <strong>Donato Conturla</strong><br>
+Educación – Innovación – Futuro
+</p>
+</div>
+
+<div class="share-box">
+<h3 style="color:#7af7ff; margin-bottom:12px;">Comparte esta plataforma:</h3>
+
+<!-- BOTONES DE COMPARTIR -->
+<a href="https://wa.me/?text=Aprende%20Inteligencia%20Artificial%20con%20Donato%20Conturla%20%0Ahttps://tu-dominio-oficial.com" target="_blank">
+<button>Compartir</button>
+</a>
+
+</div>
+
+</div>
+
+<footer>
+Copyright © 2026 – Centro Educativo IA | Aprende con Donato Conturla |
+Plataforma Oficial
+</footer>
 
 </body>
 </html>
+
